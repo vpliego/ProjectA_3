@@ -1,0 +1,12 @@
+{
+  "base_url": "/user/vpliego/",
+  "hostname": "127.0.0.1",
+  "notebook_dir": "/Users/vpliego",
+  "password": false,
+  "pid": 1071868,
+  "port": 49965,
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://127.0.0.1:49965/user/vpliego/"
+}
